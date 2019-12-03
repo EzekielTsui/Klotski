@@ -1,0 +1,10 @@
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\bin\Debug\Klotski.exe.config
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\bin\Debug\Klotski.exe
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\bin\Debug\Klotski.pdb
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.csprojAssemblyReference.cache
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.Properties.Resources.resources
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.csproj.GenerateResource.cache
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.csproj.CoreCompileInputs.cache
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.exe
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.pdb
+C:\Users\崔毅\Desktop\C#期中大作业12.8\Klotski\Klotski\obj\Debug\Klotski.Form1.resources
